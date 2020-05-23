@@ -1,11 +1,12 @@
 {
   "name": "@ljw1412/icon",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "sprite of ionicons.",
   "main": "./dist/main.js",
   "type": "./index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "scripts": {
     "build": "rimraf dist&&webpack -m production",
