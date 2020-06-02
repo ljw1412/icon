@@ -1,6 +1,6 @@
 {
-  "name": "@ljw1412/icon",
-  "version": "0.0.6",
+  "name": "@ljw1412/ionicons-sprite",
+  "version": "1.0.0",
   "description": "sprite of ionicons.",
   "main": "./dist/main.js",
   "type": "./index.d.ts",
